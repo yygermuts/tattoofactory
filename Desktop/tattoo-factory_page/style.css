@@ -107,7 +107,7 @@ footer{
 
 @media(max-width: 800px){
     .img-fluid {
-        width: 56N%;
+        width: 56%;
         height: auto;
     }
 }
